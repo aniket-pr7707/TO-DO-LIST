@@ -1,0 +1,18 @@
+div{
+    background-color: black;
+}
+
+h1{
+    color: blue;
+}
+label{
+    color: green;
+}
+
+button{
+    color: red;
+}
+
+input{
+    border: dashed darkgoldenrod;
+}
